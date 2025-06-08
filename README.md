@@ -1,1 +1,1 @@
-Aplikasi "Pengadaan Barang" menggunakan Framework Laravel
+Aplikasi "Pengadaan Barang Untuk Toko Bangunan" menggunakan Framework Laravel
